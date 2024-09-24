@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+pymc
+pymc3
+scipy
+theano
+seaborn
