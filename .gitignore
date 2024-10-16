@@ -3,3 +3,18 @@
 __pycache__/
 .vscode/
 test_stuff/
+
+# ignore latex build files in the Documents directory
+Documents/*.aux
+Documents/*.log
+Documents/*.out
+Documents/*.synctex.gz
+Documents/*.toc
+Documents/*.fdb_latexmk
+Documents/*.fls
+Documents/*.gz
+Documents/*.bbl
+Documents/*.blg
+Documents/*.bcf
+Documents/*.run.xml
+Documents/*.xdv
